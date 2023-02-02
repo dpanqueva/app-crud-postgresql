@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "app-crud-postgresql",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
